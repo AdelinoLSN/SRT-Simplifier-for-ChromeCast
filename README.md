@@ -1,0 +1,1 @@
+# SRT Simplifier for ChromeCast
