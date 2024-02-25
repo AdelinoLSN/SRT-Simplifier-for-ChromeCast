@@ -6,3 +6,5 @@
 !/files/input/test.srt
 !/files/simplified/.gitkeep
 !/files/output/.gitkeep
+
+/.vscode/*
