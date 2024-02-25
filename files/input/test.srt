@@ -1,0 +1,1726 @@
+1
+00:00:07,420 --> 00:00:09,920
+<font face="Open Sans Semibold" size="45"><b>Não tem nada a ver!</b></font>
+
+2
+00:00:43,350 --> 00:00:45,020
+<font face="Open Sans Semibold" size="45"><b><font color="#86b29a"><font face="Open Sans">ALMAS MARCADAS BRILHAM COMO ESTRELAS</font></font></b></font>
+
+3
+00:00:47,270 --> 00:00:49,520
+<font face="Open Sans Semibold" size="45"><b>{\an8}"CONTRACHEQUE" "YOMOGI ASANAKA"</b></font>
+
+4
+00:00:47,290 --> 00:00:49,460
+<font face="Open Sans Semibold" size="45"><b>Puxa, é uma boa grana.</b></font>
+
+5
+00:00:50,000 --> 00:00:55,380
+<font face="Open Sans Semibold" size="45"><b>Ei, calouro. Vai pegar mais turnos?
+Está ajudando na renda familiar?</b></font>
+
+6
+00:00:55,470 --> 00:01:00,140
+<font face="Open Sans Semibold" size="45"><b>Ah, nada disso.
+Só queria algum dinheiro pra gastar.</b></font>
+
+7
+00:01:00,220 --> 00:01:01,520
+<font face="Open Sans Semibold" size="45"><b>Aham.</b></font>
+
+8
+00:01:01,600 --> 00:01:03,890
+<font face="Open Sans Semibold" size="45"><b>Bom, eu vou indo.</b></font>
+
+9
+00:01:28,170 --> 00:01:31,670
+<font face="Open Sans Semibold" size="45"><b>Temos que decidir nosso projeto?
+Ainda é maio.</b></font>
+
+10
+00:01:31,750 --> 00:01:33,170
+<font face="Open Sans Semibold" size="45"><b>Quando é o festival?</b></font>
+
+11
+00:01:33,260 --> 00:01:35,510
+<font face="Open Sans Semibold" size="45"><b>Na segunda semana de outubro.</b></font>
+
+12
+00:01:35,590 --> 00:01:37,680
+<font face="Open Sans Semibold" size="45"><b>-Falta muito tempo.
+-Não é?</b></font>
+
+13
+00:01:37,760 --> 00:01:39,430
+<font face="Open Sans Semibold" size="45"><b>Que tal uma casa mal-assombrada?</b></font>
+
+14
+00:01:39,510 --> 00:01:41,510
+<font face="Open Sans Semibold" size="45"><b>Ouvi que tinham sido proibidas.</b></font>
+
+15
+00:01:41,600 --> 00:01:42,510
+<font face="Open Sans Semibold" size="45"><b>Por quê?</b></font>
+
+16
+00:01:42,600 --> 00:01:44,390
+<font face="Open Sans Semibold" size="45"><b>Fantasmas podem aparecer.</b></font>
+
+17
+00:01:44,470 --> 00:01:45,390
+<font face="Open Sans Semibold" size="45"><b>É mesmo?
+-O quê?</b></font>
+
+18
+00:01:45,480 --> 00:01:46,730
+<font face="Open Sans Semibold" size="45"><b>Que papo-furado.</b></font>
+
+19
+00:01:46,810 --> 00:01:51,440
+<font face="Open Sans Semibold" size="45"><b>Não, falando sério. Anos atrás,
+uns alunos foram zoados e se mataram.</b></font>
+
+20
+00:01:51,520 --> 00:01:53,860
+<font face="Open Sans Semibold" size="45"><b>-Se fôssemos cozinhar, o que poderia ser?
+-Mas quem é zoado no colégio?</b></font>
+
+21
+00:01:53,980 --> 00:01:54,820
+<font face="Open Sans Semibold" size="45"><b>Espetos de carne.</b></font>
+
+22
+00:01:54,900 --> 00:01:55,740
+<font face="Open Sans Semibold" size="45"><b>-Comida frita?
+-Pois é, eu sei.</b></font>
+
+23
+00:01:55,820 --> 00:01:58,070
+<font face="Open Sans Semibold" size="45"><b>-Na aula?
+-Por que não?</b></font>
+
+24
+00:02:01,410 --> 00:02:05,700
+<font face="Open Sans Semibold" size="45"><b>{\an8}<i>Agora</i></b></font>
+
+25
+00:02:06,160 --> 00:02:08,370
+<font face="Open Sans Semibold" size="45"><b>{\an8}<i>Vá e voe</i></b></font>
+
+26
+00:02:08,460 --> 00:02:10,330
+<font face="Open Sans Semibold" size="45"><b>Nossa, aquilo é perigoso.</b></font>
+
+27
+00:02:10,790 --> 00:02:12,210
+<font face="Open Sans Semibold" size="45"><b>É a Minami.</b></font>
+
+28
+00:02:12,290 --> 00:02:14,630
+<font face="Open Sans Semibold" size="45"><b>O que ela está fazendo lá em cima?</b></font>
+
+29
+00:02:18,180 --> 00:02:21,930
+<font face="Open Sans Semibold" size="45"><b>{\an8}-Por falar nela, eu também ouvi os boatos.
+-O quê?</b></font>
+
+30
+00:02:22,010 --> 00:02:25,720
+<font face="Open Sans Semibold" size="45"><b>{\an8}Parece que ela chamou
+vários caras pra sair.</b></font>
+
+31
+00:02:25,810 --> 00:02:28,060
+<font face="Open Sans Semibold" size="45"><b>{\an8}Hein? Ela é desse tipo de garota?</b></font>
+
+32
+00:02:28,140 --> 00:02:30,980
+<font face="Open Sans Semibold" size="45"><b>{\an8}Ela chama pra sair e depois dá bolo,</b></font>
+
+33
+00:02:31,440 --> 00:02:34,360
+<font face="Open Sans Semibold" size="45"><b>como se fosse algum tipo
+de doença de quebrar promessas.</b></font>
+
+34
+00:02:34,440 --> 00:02:35,780
+<font face="Open Sans Semibold" size="45"><b>Que diabos é isso?</b></font>
+
+35
+00:02:35,860 --> 00:02:37,440
+<font face="Open Sans Semibold" size="45"><b>É só um boato.</b></font>
+
+36
+00:02:38,200 --> 00:02:40,570
+<font face="Open Sans Semibold" size="45"><b>Não consigo imaginá-la assim.</b></font>
+
+37
+00:02:41,110 --> 00:02:43,370
+<font face="Open Sans Semibold" size="45"><b>Você é tão inocente, Yomogi.</b></font>
+
+38
+00:02:43,450 --> 00:02:45,450
+<font face="Open Sans Semibold" size="45"><b>O que quer dizer?</b></font>
+
+39
+00:02:51,350 --> 00:02:55,360
+<font face="Open Sans Semibold" size="45"><b><font size="70"><font color="#fdfdfd"><font face="Open Sans"></font></font></font></b>O QUE É UM CONTROLADOR DE <i>KAIJU</i>?</font>
+
+40
+00:02:51,350 --> 00:02:55,360
+<font face="Open Sans Semibold" size="45"><b><font size="70"><font color="#fdfdfd"><font face="Open Sans"></font></font></font></b>EPISÓDIO 1</font>
+
+41
+00:02:56,050 --> 00:02:58,300
+<font face="Open Sans Semibold" size="45"><b>Ouvi tudo sobre isso, Yume.</b></font>
+
+42
+00:02:58,380 --> 00:02:59,970
+<font face="Open Sans Semibold" size="45"><b>Sobre o quê?</b></font>
+
+43
+00:03:00,630 --> 00:03:04,640
+<font face="Open Sans Semibold" size="45"><b>Você chamou um garoto do 2o. ano
+para te encontrar e deu bolo nele.</b></font>
+
+44
+00:03:04,720 --> 00:03:08,140
+<font face="Open Sans Semibold" size="45"><b>Pois é. Ele brigou comigo ontem.</b></font>
+
+45
+00:03:08,230 --> 00:03:11,770
+<font face="Open Sans Semibold" size="45"><b>Sabe, essas coisas se espalham.</b></font>
+
+46
+00:03:11,850 --> 00:03:12,810
+<font face="Open Sans Semibold" size="45"><b>Sim.</b></font>
+
+47
+00:03:12,900 --> 00:03:17,820
+<font face="Open Sans Semibold" size="45"><b>Odeio dizer isto, mas não sabe
+que a sua turma fala de você?</b></font>
+
+48
+00:03:18,570 --> 00:03:21,410
+<font face="Open Sans Semibold" size="45"><b>Se não está na minha turma,
+porque você se importa?</b></font>
+
+49
+00:03:22,240 --> 00:03:27,120
+<font face="Open Sans Semibold" size="45"><b>Eu te conheço desde sempre,
+só estou falando pelo seu bem.</b></font>
+
+50
+00:03:27,160 --> 00:03:30,750
+<font face="Open Sans Semibold" size="45"><b>-Puxa, obrigada, "mãe".
+-Pare com isso.</b></font>
+
+51
+00:03:32,500 --> 00:03:36,590
+<font face="Open Sans Semibold" size="45"><b>Yume. Pare de fazer promessas
+que não vai cumprir.</b></font>
+
+52
+00:03:38,550 --> 00:03:40,170
+<font face="Open Sans Semibold" size="45"><b>Olá?</b></font>
+
+53
+00:03:42,220 --> 00:03:43,550
+<font face="Open Sans Semibold" size="45"><b>Não me ignore.</b></font>
+
+54
+00:03:44,050 --> 00:03:46,720
+<font face="Open Sans Semibold" size="45"><b>{\an8}<i>Quanto às diferentes linhas</i>
+<i>de pensamento,</i></b></font>
+
+55
+00:03:46,810 --> 00:03:50,600
+<font face="Open Sans Semibold" size="45"><b>temos o ascetismo estoico
+e o hedonismo empírico.</b></font>
+
+56
+00:03:51,190 --> 00:03:55,730
+<font face="Open Sans Semibold" size="45"><b>Elas são completamente diferentes.
+Nesta aula...</b></font>
+
+57
+00:03:55,810 --> 00:03:59,690
+<font face="Open Sans Semibold" size="45"><b><i>A cada ano, mais túmulos</i>
+<i>são desmantelados.</i></b></font>
+
+58
+00:04:00,610 --> 00:04:04,870
+<font face="Open Sans Semibold" size="45"><b>Hum? <i>Senpai</i>, o memorial
+é na semana que vem.</b></font>
+
+59
+00:04:05,410 --> 00:04:06,490
+<font face="Open Sans Semibold" size="45"><b>Hein?</b></font>
+
+60
+00:04:07,620 --> 00:04:10,120
+<font face="Open Sans Semibold" size="45"><b>Ah, é mesmo.</b></font>
+
+61
+00:04:10,580 --> 00:04:13,580
+<font face="Open Sans Semibold" size="45"><b>Boa sorte quando for explicar
+que está desempregado.</b></font>
+
+62
+00:04:13,670 --> 00:04:15,880
+<font face="Open Sans Semibold" size="45"><b>Diz a menina que mata aula.</b></font>
+
+63
+00:04:15,960 --> 00:04:21,260
+<font face="Open Sans Semibold" size="45"><b>Isso é diferente! Não vou à escola
+por escolha própria.</b></font>
+
+64
+00:04:21,340 --> 00:04:24,590
+<font face="Open Sans Semibold" size="45"><b><i>Isto poderia ser o novo "túmulo".</i></b></font>
+
+65
+00:04:24,680 --> 00:04:26,180
+<font face="Open Sans Semibold" size="45"><b>O que mudou?</b></font>
+
+66
+00:04:26,800 --> 00:04:28,140
+<font face="Open Sans Semibold" size="45"><b>-Tchau.
+-Tchau.</b></font>
+
+67
+00:04:28,220 --> 00:04:29,850
+<font face="Open Sans Semibold" size="45"><b>Até mais.</b></font>
+
+68
+00:04:34,580 --> 00:04:34,620
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+69
+00:04:34,620 --> 00:04:34,670
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+70
+00:04:34,670 --> 00:04:34,710
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+71
+00:04:34,710 --> 00:04:34,750
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+72
+00:04:34,750 --> 00:04:34,790
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+73
+00:04:34,790 --> 00:04:34,830
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+74
+00:04:34,830 --> 00:04:34,870
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+75
+00:04:34,870 --> 00:04:34,920
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+76
+00:04:34,920 --> 00:04:34,960
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+77
+00:04:34,960 --> 00:04:35,000
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+78
+00:04:35,000 --> 00:04:35,040
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+79
+00:04:35,040 --> 00:04:35,080
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+80
+00:04:35,080 --> 00:04:35,120
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+81
+00:04:35,120 --> 00:04:35,170
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+82
+00:04:35,170 --> 00:04:35,210
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+83
+00:04:35,210 --> 00:04:35,250
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+84
+00:04:35,250 --> 00:04:35,290
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+85
+00:04:35,290 --> 00:04:35,330
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+86
+00:04:35,330 --> 00:04:35,370
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+87
+00:04:35,370 --> 00:04:35,420
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+88
+00:04:35,420 --> 00:04:35,460
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+89
+00:04:35,460 --> 00:04:35,500
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+90
+00:04:35,500 --> 00:04:35,540
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+91
+00:04:35,540 --> 00:04:35,580
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+92
+00:04:35,580 --> 00:04:35,620
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+93
+00:04:35,620 --> 00:04:35,670
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+94
+00:04:35,670 --> 00:04:35,710
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+95
+00:04:35,710 --> 00:04:35,750
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+96
+00:04:35,750 --> 00:04:35,790
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+97
+00:04:35,790 --> 00:04:35,830
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+98
+00:04:35,830 --> 00:04:35,880
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+99
+00:04:35,880 --> 00:04:35,920
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+100
+00:04:35,920 --> 00:04:35,960
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+101
+00:04:35,960 --> 00:04:36,000
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+102
+00:04:36,000 --> 00:04:36,040
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+103
+00:04:36,040 --> 00:04:36,080
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+104
+00:04:36,080 --> 00:04:36,130
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+105
+00:04:36,130 --> 00:04:36,170
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+106
+00:04:36,170 --> 00:04:36,210
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+107
+00:04:36,210 --> 00:04:36,250
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+108
+00:04:36,250 --> 00:04:36,290
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+109
+00:04:36,290 --> 00:04:36,330
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+110
+00:04:36,330 --> 00:04:36,380
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+111
+00:04:36,380 --> 00:04:36,420
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+112
+00:04:36,420 --> 00:04:36,460
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+113
+00:04:36,460 --> 00:04:36,500
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+114
+00:04:36,500 --> 00:04:36,540
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+115
+00:04:36,540 --> 00:04:36,580
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+116
+00:04:36,580 --> 00:04:36,630
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+117
+00:04:36,630 --> 00:04:36,670
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+118
+00:04:36,670 --> 00:04:36,710
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+119
+00:04:36,710 --> 00:04:36,750
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+120
+00:04:36,750 --> 00:04:36,790
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+121
+00:04:36,790 --> 00:04:36,830
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+122
+00:04:36,830 --> 00:04:36,880
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+123
+00:04:36,880 --> 00:04:36,920
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+124
+00:04:36,920 --> 00:04:36,960
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+125
+00:04:36,960 --> 00:04:37,000
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+126
+00:04:37,000 --> 00:04:37,040
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+127
+00:04:37,040 --> 00:04:37,080
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+128
+00:04:37,080 --> 00:04:37,130
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+129
+00:04:37,130 --> 00:04:37,170
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+130
+00:04:37,170 --> 00:04:37,210
+<font face="Open Sans Semibold" size="45"><b>{=0}<font size="80"><font color="#d2ccc5">MARÉ ALTA</font></font></b></font>
+
+131
+00:04:54,500 --> 00:04:56,540
+<font face="Open Sans Semibold" size="45"><b>Hum, você está bem?</b></font>
+
+132
+00:04:58,210 --> 00:04:59,500
+<font face="Open Sans Semibold" size="45"><b>Faminto.</b></font>
+
+133
+00:04:59,590 --> 00:05:02,800
+<font face="Open Sans Semibold" size="45"><b>Faminto? Tudo bem...</b></font>
+
+134
+00:05:05,220 --> 00:05:09,430
+<font face="Open Sans Semibold" size="45"><b>Tome. São sobras do almoço,
+mas se quiser, pode ficar.</b></font>
+
+135
+00:05:09,930 --> 00:05:10,930
+<font face="Open Sans Semibold" size="45"><b>Nossa!</b></font>
+
+136
+00:05:15,100 --> 00:05:17,350
+<font face="Open Sans Semibold" size="45"><b>Bom, eu vou indo.</b></font>
+
+137
+00:05:24,950 --> 00:05:27,950
+<font face="Open Sans Semibold" size="45"><b>Você salvou a minha vida.</b></font>
+
+138
+00:05:28,030 --> 00:05:29,070
+<font face="Open Sans Semibold" size="45"><b>Hein?</b></font>
+
+139
+00:05:29,160 --> 00:05:30,950
+<font face="Open Sans Semibold" size="45"><b>Não, falando sério.</b></font>
+
+140
+00:05:31,030 --> 00:05:33,830
+<font face="Open Sans Semibold" size="45"><b>Que bom que esteja se sentindo melhor.</b></font>
+
+141
+00:05:33,910 --> 00:05:35,370
+<font face="Open Sans Semibold" size="45"><b>Qual é o seu nome?</b></font>
+
+142
+00:05:36,080 --> 00:05:38,170
+<font face="Open Sans Semibold" size="45"><b>-Hein?
+-O seu nome!</b></font>
+
+143
+00:05:38,250 --> 00:05:42,460
+<font face="Open Sans Semibold" size="45"><b>O meu nome? É Yomogi Asanaka.</b></font>
+
+144
+00:05:42,550 --> 00:05:44,800
+<font face="Open Sans Semibold" size="45"><b>Yomogi, hein?</b></font>
+
+145
+00:05:46,630 --> 00:05:50,050
+<font face="Open Sans Semibold" size="45"><b>-É um bom nome.
+-Obrigado.</b></font>
+
+146
+00:05:50,140 --> 00:05:53,680
+<font face="Open Sans Semibold" size="45"><b>Eu sou o Gauma, um controlador de <i>kaiju</i>.</b></font>
+
+147
+00:05:53,770 --> 00:05:55,980
+<font face="Open Sans Semibold" size="45"><b>De <i>kaiju? </i>Está bom.</b></font>
+
+148
+00:05:56,060 --> 00:05:58,150
+<font face="Open Sans Semibold" size="45"><b>E quanto ao motivo de estar aqui...</b></font>
+
+149
+00:05:58,230 --> 00:06:00,270
+<font face="Open Sans Semibold" size="45"><b>Não pode simplesmente me deixar ir?</b></font>
+
+150
+00:06:00,360 --> 00:06:03,860
+<font face="Open Sans Semibold" size="45"><b>Obrigado. Juro que devolvo o favor.</b></font>
+
+151
+00:06:03,940 --> 00:06:07,320
+<font face="Open Sans Semibold" size="45"><b>Bom, na verdade, não tem problema
+se não devolver!</b></font>
+
+152
+00:06:09,320 --> 00:06:11,240
+<font face="Open Sans Semibold" size="45"><b>Yomogi!</b></font>
+
+153
+00:06:17,080 --> 00:06:19,790
+<font face="Open Sans Semibold" size="45"><b>Yomogi, vamos!</b></font>
+
+154
+00:06:19,880 --> 00:06:21,250
+<font face="Open Sans Semibold" size="45"><b>Tudo bem!</b></font>
+
+155
+00:06:21,340 --> 00:06:23,420
+<font face="Open Sans Semibold" size="45"><b>Eu volto mais tarde, mãe.</b></font>
+
+156
+00:06:24,340 --> 00:06:26,880
+<font face="Open Sans Semibold" size="45"><b>Vamos jantar com o Kamijo.</b></font>
+
+157
+00:06:28,840 --> 00:06:30,680
+<font face="Open Sans Semibold" size="45"><b>Yomogi, ande logo!</b></font>
+
+158
+00:06:31,680 --> 00:06:33,510
+<font face="Open Sans Semibold" size="45"><b>Você fala muito alto.</b></font>
+
+159
+00:06:33,600 --> 00:06:36,520
+<font face="Open Sans Semibold" size="45"><b>-Diga alguma coisa.
+-"Muito alto."</b></font>
+
+160
+00:06:38,600 --> 00:06:41,020
+<font face="Open Sans Semibold" size="45"><b>Faz bem à terra!</b></font>
+
+161
+00:06:41,100 --> 00:06:44,730
+<font face="Open Sans Semibold" size="45"><b>-Yomogi, agora você está no...
+-Colégio.</b></font>
+
+162
+00:06:44,820 --> 00:06:48,950
+<font face="Open Sans Semibold" size="45"><b>Sim, foi o que pensei.
+E é por isso que... tome.</b></font>
+
+163
+00:06:49,070 --> 00:06:50,410
+<font face="Open Sans Semibold" size="45"><b>{\an8}Parabéns.</b></font>
+
+164
+00:06:49,090 --> 00:06:52,470
+<font face="Open Sans Semibold" size="45"><b><font color="#6a6d6e"><font face="Open Sans Extrabold">PRESENTE 
+DE INÍCIO
+ ESCOLAR</font></font></b></font>
+
+165
+00:06:50,530 --> 00:06:52,370
+<font face="Open Sans Semibold" size="45"><b>{\an8}-Hein? Hum...
+-O quê? Minha nossa!</b></font>
+
+166
+00:06:52,450 --> 00:06:56,120
+<font face="Open Sans Semibold" size="45"><b>Porque vai começar a sair mais, sabe?</b></font>
+
+167
+00:06:56,200 --> 00:06:59,000
+<font face="Open Sans Semibold" size="45"><b>Não devia ter feito isso, mas obrigada.</b></font>
+
+168
+00:06:59,080 --> 00:07:00,710
+<font face="Open Sans Semibold" size="45"><b>Muito obrigado.</b></font>
+
+169
+00:07:01,580 --> 00:07:03,630
+<font face="Open Sans Semibold" size="45"><b>E fala automaticamente.</b></font>
+
+170
+00:07:05,380 --> 00:07:09,050
+<font face="Open Sans Semibold" size="45"><b>O que está fazendo, Yomogi? Vamos!</b></font>
+
+171
+00:07:10,610 --> 00:07:10,650
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+172
+00:07:10,650 --> 00:07:10,740
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+173
+00:07:10,740 --> 00:07:10,820
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+174
+00:07:10,820 --> 00:07:10,860
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+175
+00:07:10,860 --> 00:07:10,900
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+176
+00:07:10,900 --> 00:07:10,950
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+177
+00:07:10,950 --> 00:07:10,990
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+178
+00:07:10,990 --> 00:07:11,030
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+179
+00:07:11,030 --> 00:07:11,070
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+180
+00:07:11,070 --> 00:07:11,110
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+181
+00:07:11,110 --> 00:07:11,160
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+182
+00:07:11,160 --> 00:07:11,200
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+183
+00:07:11,200 --> 00:07:11,240
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+184
+00:07:11,240 --> 00:07:11,280
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+185
+00:07:11,280 --> 00:07:11,320
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+186
+00:07:11,320 --> 00:07:11,360
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+187
+00:07:11,360 --> 00:07:11,410
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+188
+00:07:11,410 --> 00:07:11,450
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+189
+00:07:11,450 --> 00:07:11,490
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+190
+00:07:11,490 --> 00:07:11,530
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+191
+00:07:11,530 --> 00:07:11,570
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+192
+00:07:11,570 --> 00:07:11,610
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+193
+00:07:11,610 --> 00:07:11,660
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+194
+00:07:11,660 --> 00:07:11,700
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+195
+00:07:11,700 --> 00:07:11,740
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+196
+00:07:11,740 --> 00:07:11,780
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+197
+00:07:11,780 --> 00:07:11,820
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+198
+00:07:11,820 --> 00:07:11,860
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+199
+00:07:11,860 --> 00:07:11,910
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+200
+00:07:11,910 --> 00:07:11,950
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+201
+00:07:11,950 --> 00:07:11,990
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+202
+00:07:11,990 --> 00:07:12,030
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+203
+00:07:12,030 --> 00:07:12,070
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+204
+00:07:12,070 --> 00:07:12,110
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+205
+00:07:12,110 --> 00:07:12,160
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+206
+00:07:12,160 --> 00:07:12,200
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+207
+00:07:12,200 --> 00:07:12,240
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+208
+00:07:12,240 --> 00:07:12,280
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+209
+00:07:12,280 --> 00:07:12,320
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+210
+00:07:12,320 --> 00:07:12,360
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+211
+00:07:12,360 --> 00:07:12,410
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+212
+00:07:12,410 --> 00:07:12,450
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+213
+00:07:12,450 --> 00:07:12,490
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+214
+00:07:12,490 --> 00:07:12,530
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+215
+00:07:12,530 --> 00:07:12,570
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+216
+00:07:12,570 --> 00:07:12,620
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+217
+00:07:12,620 --> 00:07:12,660
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+218
+00:07:12,660 --> 00:07:12,700
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+219
+00:07:12,700 --> 00:07:12,740
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+220
+00:07:12,740 --> 00:07:12,780
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+221
+00:07:12,780 --> 00:07:12,820
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+222
+00:07:12,820 --> 00:07:12,870
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+223
+00:07:12,870 --> 00:07:12,910
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+224
+00:07:12,910 --> 00:07:12,950
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+225
+00:07:12,950 --> 00:07:12,990
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+226
+00:07:12,990 --> 00:07:13,030
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+227
+00:07:13,030 --> 00:07:13,070
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+228
+00:07:13,070 --> 00:07:13,120
+<font face="Open Sans Semibold" size="45"><b>{=1}<font size="30"><font color="#53a63a"><font face="Open Sans Extrabold">CAIXA DE DOAÇÕES</font></font></font></b></font>
+
+229
+00:07:13,140 --> 00:07:16,770
+<font face="Open Sans Semibold" size="45"><b><i>É mais um dia na vida</i>
+<i>desta grande família.</i></b></font>
+
+230
+00:07:17,390 --> 00:07:19,180
+<font face="Open Sans Semibold" size="45"><b><i>A manhã dos Hinodes começa...</i></b></font>
+
+231
+00:07:19,270 --> 00:07:21,060
+<font face="Open Sans Semibold" size="45"><b>Obrigada pela comida.</b></font>
+
+232
+00:07:23,770 --> 00:07:28,240
+<font face="Open Sans Semibold" size="45"><b>Ah, posso ir ao quarto da Kano?
+Quero pegar uma coisa emprestada.</b></font>
+
+233
+00:07:29,190 --> 00:07:32,740
+<font face="Open Sans Semibold" size="45"><b>-O quê?
+-Um livro pra escola.</b></font>
+
+234
+00:07:33,370 --> 00:07:36,790
+<font face="Open Sans Semibold" size="45"><b>-É claro, mas depois devolva.
+-Sim.</b></font>
+
+235
+00:07:37,450 --> 00:07:40,210
+<font face="Open Sans Semibold" size="45"><b>Ela nem vai precisar dele.</b></font>
+
+236
+00:07:44,000 --> 00:07:45,960
+<font face="Open Sans Semibold" size="45"><b><i>Querido!</i></b></font>
+
+237
+00:07:46,130 --> 00:07:48,090
+<font face="Open Sans Semibold" size="45"><b><i>Limpe a mesa</i></b></font>
+
+238
+00:07:48,170 --> 00:07:50,420
+<font face="Open Sans Semibold" size="45"><b>-<i>antes de começar a beber.</i>
+-Aqui está.</b></font>
+
+239
+00:07:51,050 --> 00:07:51,970
+<font face="Open Sans Semibold" size="45"><b><i>Yume.</i></b></font>
+
+240
+00:07:55,030 --> 00:07:58,290
+<font face="Open Sans Semibold" size="45"><b><font color="#f0389b">DIA DE RESPEITO AOS IDOSOS</font></b></font>
+
+241
+00:07:55,030 --> 00:07:58,290
+<font face="Open Sans Semibold" size="45"><b><font size="80"><font color="#b12bc5">RECITAL</font></font></b></font>
+
+242
+00:07:55,470 --> 00:07:58,220
+<font face="Open Sans Semibold" size="45"><b><i>-Yume, quero que você venha.</i></b></font>
+
+243
+00:07:59,220 --> 00:08:00,430
+<font face="Open Sans Semibold" size="45"><b>Por quê?</b></font>
+
+244
+00:08:03,940 --> 00:08:06,020
+<font face="Open Sans Semibold" size="45"><b><i>Limpe, está bem?</i></b></font>
+
+245
+00:08:06,980 --> 00:08:09,610
+<font face="Open Sans Semibold" size="45"><b><i>Já está na hora de você limpar também.</i></b></font>
+
+246
+00:08:10,110 --> 00:08:13,820
+<font face="Open Sans Semibold" size="45"><b><i>-Limpar o quê?</i>
+<i>-O quarto da Kano. Já passou muito tempo.</i></b></font>
+
+247
+00:08:14,320 --> 00:08:16,330
+<font face="Open Sans Semibold" size="45"><b><i>O que você quer de mim?</i></b></font>
+
+248
+00:08:16,430 --> 00:08:18,680
+<font face="Open Sans Semibold" size="45"><b><font color="#d4cfd8">IMOSE</font></b></font>
+
+249
+00:08:16,430 --> 00:08:18,680
+<font face="Open Sans Semibold" size="45"><b><font color="#eef6f3"><font face="Open Sans Extrabold">TÓQUIO
+FENÔMENO SEM EXPLICAÇÃO CONTINUA</font></font></b></font>
+
+250
+00:08:17,700 --> 00:08:19,540
+<font face="Open Sans Semibold" size="45"><b>{\an8}<i>Segundo a polícia, por volta das 18h...</i></b></font>
+
+251
+00:08:19,620 --> 00:08:23,040
+<font face="Open Sans Semibold" size="45"><b>Puxa<i>. </i>Olhe só isso, <i>senpai.</i></b></font>
+
+252
+00:08:23,580 --> 00:08:25,250
+<font face="Open Sans Semibold" size="45"><b><i>Tinha lixo boiando...</i></b></font>
+
+253
+00:08:25,330 --> 00:08:30,210
+<font face="Open Sans Semibold" size="45"><b>Ei, s<i>enpai</i>! <i>Senpai</i>!
+Ei, ei, ei! <i>Senpai</i>!</b></font>
+
+254
+00:08:33,090 --> 00:08:35,550
+<font face="Open Sans Semibold" size="45"><b>Ele me pegou pela perna.</b></font>
+
+255
+00:08:35,640 --> 00:08:37,550
+<font face="Open Sans Semibold" size="45"><b>Nossa. Que bizarro.</b></font>
+
+256
+00:08:37,640 --> 00:08:41,520
+<font face="Open Sans Semibold" size="45"><b>-Quase pensei que me devoraria.
+-Ei! Yomogi!</b></font>
+
+257
+00:08:41,600 --> 00:08:43,560
+<font face="Open Sans Semibold" size="45"><b>Ei!</b></font>
+
+258
+00:08:44,230 --> 00:08:46,730
+<font face="Open Sans Semibold" size="45"><b>Puxa vida! Eu já vou indo!</b></font>
+
+259
+00:08:46,810 --> 00:08:50,030
+<font face="Open Sans Semibold" size="45"><b>-Hein? Quem é aquele cara?
+-Ei, ei! Yomogi! Sou eu!</b></font>
+
+260
+00:08:50,110 --> 00:08:51,900
+<font face="Open Sans Semibold" size="45"><b>Parece que ele está se divertindo.</b></font>
+
+261
+00:09:14,010 --> 00:09:16,720
+<font face="Open Sans Semibold" size="45"><b>-Hum...
+-O quê?</b></font>
+
+262
+00:09:16,800 --> 00:09:19,760
+<font face="Open Sans Semibold" size="45"><b>Está com tempo depois da aula?</b></font>
+
+263
+00:09:19,850 --> 00:09:22,850
+<font face="Open Sans Semibold" size="45"><b>-Hein? Hoje?
+-Sim.</b></font>
+
+264
+00:09:22,930 --> 00:09:26,980
+<font face="Open Sans Semibold" size="45"><b>-Eh, hum...
+-Minami. Yume Minami.</b></font>
+
+265
+00:09:27,060 --> 00:09:30,360
+<font face="Open Sans Semibold" size="45"><b>Sim, eu sei. Você está na minha sala.</b></font>
+
+266
+00:09:31,360 --> 00:09:32,990
+<font face="Open Sans Semibold" size="45"><b>Ah, é.</b></font>
+
+267
+00:09:33,440 --> 00:09:36,110
+<font face="Open Sans Semibold" size="45"><b>Tenho que trabalhar hoje à noite.</b></font>
+
+268
+00:09:36,200 --> 00:09:37,320
+<font face="Open Sans Semibold" size="45"><b>Entendi.</b></font>
+
+269
+00:09:37,410 --> 00:09:40,370
+<font face="Open Sans Semibold" size="45"><b>Ah, mas termino tudo às 20h.</b></font>
+
+270
+00:09:40,450 --> 00:09:43,830
+<font face="Open Sans Semibold" size="45"><b>Então, pode me encontrar aqui às 21h?</b></font>
+
+271
+00:09:43,910 --> 00:09:46,710
+<font face="Open Sans Semibold" size="45"><b>Claro, mas por quê?</b></font>
+
+272
+00:09:46,790 --> 00:09:52,340
+<font face="Open Sans Semibold" size="45"><b>Hum, achei que se alguém
+podia me entender, era você.</b></font>
+
+273
+00:09:56,510 --> 00:09:58,640
+<font face="Open Sans Semibold" size="45"><b>Você me viu aqui, não é?</b></font>
+
+274
+00:09:58,720 --> 00:10:00,680
+<font face="Open Sans Semibold" size="45"><b>Hum, sim.</b></font>
+
+275
+00:10:00,760 --> 00:10:04,430
+<font face="Open Sans Semibold" size="45"><b>-Ouviu os boatos sobre mim?
+-Hein? Não.</b></font>
+
+276
+00:10:04,520 --> 00:10:10,310
+<font face="Open Sans Semibold" size="45"><b>Não precisa fingir.
+Mas não acredita em mim?</b></font>
+
+277
+00:10:10,440 --> 00:10:12,400
+<font face="Open Sans Semibold" size="45"><b>Não, isso não é verdade.</b></font>
+
+278
+00:10:12,480 --> 00:10:15,900
+<font face="Open Sans Semibold" size="45"><b>Que bom. Vejo você aqui.
+Eu prometo.</b></font>
+
+279
+00:10:15,990 --> 00:10:17,990
+<font face="Open Sans Semibold" size="45"><b>-Sim.
+-Ei!</b></font>
+
+280
+00:10:18,070 --> 00:10:20,320
+<font face="Open Sans Semibold" size="45"><b>Yomogi!</b></font>
+
+281
+00:10:21,410 --> 00:10:22,410
+<font face="Open Sans Semibold" size="45"><b>O quê?</b></font>
+
+282
+00:10:22,490 --> 00:10:24,620
+<font face="Open Sans Semibold" size="45"><b>-Vejo você às 21h! Tchau!
+-Por que fica fugindo de mim?</b></font>
+
+283
+00:10:24,700 --> 00:10:26,620
+<font face="Open Sans Semibold" size="45"><b>Espere aí, Yomogi!</b></font>
+
+284
+00:10:33,920 --> 00:10:37,010
+<font face="Open Sans Semibold" size="45"><b>Você é amiga do Yomogi?</b></font>
+
+285
+00:10:48,600 --> 00:10:52,650
+<font face="Open Sans Semibold" size="45"><b>Ei, calouro. Vamos jantar depois?</b></font>
+
+286
+00:10:52,730 --> 00:10:55,320
+<font face="Open Sans Semibold" size="45"><b>-Hoje?
+-É por minha conta.</b></font>
+
+287
+00:10:55,400 --> 00:10:58,490
+<font face="Open Sans Semibold" size="45"><b>Ah, sinto muito. Tenho planos.</b></font>
+
+288
+00:10:59,450 --> 00:11:01,410
+<font face="Open Sans Semibold" size="45"><b>Nossa! Que danadinho!</b></font>
+
+289
+00:11:01,490 --> 00:11:03,910
+<font face="Open Sans Semibold" size="45"><b>O que é? O quê?</b></font>
+
+290
+00:11:21,890 --> 00:11:27,020
+<font face="Open Sans Semibold" size="45"><b>Ei, s<i>enpai</i>! É perto daqui,
+vamos lá dar uma olhada!</b></font>
+
+291
+00:11:27,100 --> 00:11:31,940
+<font face="Open Sans Semibold" size="45"><b>-O quê?
+-O carro ou a cerveja flutuando, sei lá.</b></font>
+
+292
+00:11:32,020 --> 00:11:33,190
+<font face="Open Sans Semibold" size="45"><b>Ah.</b></font>
+
+293
+00:11:33,270 --> 00:11:36,070
+<font face="Open Sans Semibold" size="45"><b>Vamos, vamos ver!</b></font>
+
+294
+00:11:36,730 --> 00:11:39,780
+<font face="Open Sans Semibold" size="45"><b>A polícia pega no meu pé
+quando ando com você.</b></font>
+
+295
+00:11:40,240 --> 00:11:42,950
+<font face="Open Sans Semibold" size="45"><b>Tanto faz! Vamos sair!</b></font>
+
+296
+00:11:43,030 --> 00:11:43,950
+<font face="Open Sans Semibold" size="45"><b>Ah.</b></font>
+
+297
+00:11:45,370 --> 00:11:48,450
+<font face="Open Sans Semibold" size="45"><b>Por que ninguém acredita que somos primos?</b></font>
+
+298
+00:11:55,020 --> 00:11:57,270
+<font face="Open Sans Semibold" size="45"><b>QUARTA-FEIRA, 27 DE MAIO</b></font>
+
+299
+00:11:55,020 --> 00:11:57,270
+<font face="Open Sans Semibold" size="45"><b>QUARTA-FEIRA, 27 DE MAIO</b></font>
+
+300
+00:11:56,040 --> 00:11:57,250
+<font face="Open Sans Semibold" size="45"><b>Ela não veio.</b></font>
+
+301
+00:11:57,920 --> 00:12:01,970
+<font face="Open Sans Semibold" size="45"><b><i>Hum, achei que se alguém</i>
+<i>podia me entender, era você.</i></b></font>
+
+302
+00:12:07,310 --> 00:12:08,430
+<font face="Open Sans Semibold" size="45"><b>É mesmo?</b></font>
+
+303
+00:12:08,520 --> 00:12:10,350
+<font face="Open Sans Semibold" size="45"><b>Voltamos a nos encontrar, Yomogi.</b></font>
+
+304
+00:12:13,020 --> 00:12:14,690
+<font face="Open Sans Semibold" size="45"><b>O que está fazendo aqui?</b></font>
+
+305
+00:12:16,480 --> 00:12:19,940
+<font face="Open Sans Semibold" size="45"><b>-O que está fazendo?
+-Pode deixar pra lá?</b></font>
+
+306
+00:12:23,610 --> 00:12:26,700
+<font face="Open Sans Semibold" size="45"><b>Está chovendo. Vai pegar um resfriado.</b></font>
+
+307
+00:12:28,790 --> 00:12:30,750
+<font face="Open Sans Semibold" size="45"><b>Está esperando alguém?</b></font>
+
+308
+00:12:32,790 --> 00:12:35,920
+<font face="Open Sans Semibold" size="45"><b>Ah, ela! A garota de hoje de manhã?</b></font>
+
+309
+00:12:36,000 --> 00:12:40,170
+<font face="Open Sans Semibold" size="45"><b>-Não.
+-Eu sabia! Ela é sua namorada?</b></font>
+
+310
+00:12:40,260 --> 00:12:41,720
+<font face="Open Sans Semibold" size="45"><b>Nada disso.</b></font>
+
+311
+00:12:42,170 --> 00:12:44,380
+<font face="Open Sans Semibold" size="45"><b>A que horas vocês deviam se encontrar?</b></font>
+
+312
+00:12:46,470 --> 00:12:49,430
+<font face="Open Sans Semibold" size="45"><b>-A que horas?
+-Às 21h.</b></font>
+
+313
+00:12:51,060 --> 00:12:55,810
+<font face="Open Sans Semibold" size="45"><b>Nossa! Ela está 40 minutos atrasada!
+Não vai procurá-la?</b></font>
+
+314
+00:12:55,900 --> 00:12:56,900
+<font face="Open Sans Semibold" size="45"><b>Procurar?</b></font>
+
+315
+00:12:56,980 --> 00:13:02,360
+<font face="Open Sans Semibold" size="45"><b>Tudo bem, eu procuro!
+Mas só porque te devo uma!</b></font>
+
+316
+00:13:20,340 --> 00:13:21,380
+<font face="Open Sans Semibold" size="45"><b>Você está aí!</b></font>
+
+317
+00:13:21,920 --> 00:13:24,510
+<font face="Open Sans Semibold" size="45"><b>Ei, ei, ei! Ei, você!</b></font>
+
+318
+00:13:25,130 --> 00:13:26,430
+<font face="Open Sans Semibold" size="45"><b>Quem é você?</b></font>
+
+319
+00:13:26,510 --> 00:13:31,310
+<font face="Open Sans Semibold" size="45"><b>Você me viu antes!
+Sou Gauma, um controlador de <i>kaiju</i>.</b></font>
+
+320
+00:13:31,810 --> 00:13:33,180
+<font face="Open Sans Semibold" size="45"><b>Qual é o seu nome?</b></font>
+
+321
+00:13:36,440 --> 00:13:40,320
+<font face="Open Sans Semibold" size="45"><b>Você fez uma promessa ao Yomogi.
+Por que está aqui?</b></font>
+
+322
+00:13:40,400 --> 00:13:41,860
+<font face="Open Sans Semibold" size="45"><b>Está muito atrasada.</b></font>
+
+323
+00:13:41,940 --> 00:13:44,570
+<font face="Open Sans Semibold" size="45"><b>Ei! Aonde você vai?</b></font>
+
+324
+00:13:44,650 --> 00:13:45,700
+<font face="Open Sans Semibold" size="45"><b>Espere aí!</b></font>
+
+325
+00:13:48,240 --> 00:13:50,870
+<font face="Open Sans Semibold" size="45"><b>-Não é da sua conta.
+-É, sim!</b></font>
+
+326
+00:13:55,660 --> 00:13:57,370
+<font face="Open Sans Semibold" size="45"><b>Você...</b></font>
+
+327
+00:13:58,210 --> 00:14:01,170
+<font face="Open Sans Semibold" size="45"><b>Você enganou o Yomogi?</b></font>
+
+328
+00:14:02,210 --> 00:14:07,340
+<font face="Open Sans Semibold" size="45"><b>Não ia aparecer, mas o fez esperar?
+Está brincando com ele?</b></font>
+
+329
+00:14:09,180 --> 00:14:11,140
+<font face="Open Sans Semibold" size="45"><b>E se eu estiver?</b></font>
+
+330
+00:14:13,680 --> 00:14:16,390
+<font face="Open Sans Semibold" size="45"><b>Então, você arrumou um problemão!</b></font>
+
+331
+00:14:16,480 --> 00:14:21,730
+<font face="Open Sans Semibold" size="45"><b>O Yomogi está esperando na chuva!
+O cara pode até pegar um resfriado!</b></font>
+
+332
+00:14:21,770 --> 00:14:23,110
+<font face="Open Sans Semibold" size="45"><b>Cale-se.</b></font>
+
+333
+00:14:23,190 --> 00:14:25,190
+<font face="Open Sans Semibold" size="45"><b>Cale-se você!</b></font>
+
+334
+00:14:25,280 --> 00:14:26,860
+<font face="Open Sans Semibold" size="45"><b>-Escute aqui!
+-Perto demais!</b></font>
+
+335
+00:14:27,530 --> 00:14:33,830
+<font face="Open Sans Semibold" size="45"><b>Nesse mundo, existem três coisas
+importantes que se deve manter:</b></font>
+
+336
+00:14:33,910 --> 00:14:40,630
+<font face="Open Sans Semibold" size="45"><b>Promessas... hum, você sabe, amor, e...</b></font>
+
+337
+00:14:40,710 --> 00:14:41,840
+<font face="Open Sans Semibold" size="45"><b>Eu posso ir?</b></font>
+
+338
+00:14:41,920 --> 00:14:45,510
+<font face="Open Sans Semibold" size="45"><b>-Eu ainda não acabei!
+-Minami?</b></font>
+
+339
+00:14:46,720 --> 00:14:48,380
+<font face="Open Sans Semibold" size="45"><b>Yomogi.</b></font>
+
+340
+00:14:48,470 --> 00:14:51,350
+<font face="Open Sans Semibold" size="45"><b>Yomogi! Você está sendo enganado!</b></font>
+
+341
+00:14:52,260 --> 00:14:57,180
+<font face="Open Sans Semibold" size="45"><b>Por ela! Ela nunca teve a intenção
+de manter sua promessa.</b></font>
+
+342
+00:14:57,270 --> 00:14:59,270
+<font face="Open Sans Semibold" size="45"><b>O quê? Como assim?</b></font>
+
+343
+00:14:59,350 --> 00:15:02,650
+<font face="Open Sans Semibold" size="45"><b>Ela está brincando com você e te enganou!</b></font>
+
+344
+00:15:03,820 --> 00:15:07,190
+<font face="Open Sans Semibold" size="45"><b><i>Como se fosse algum tipo</i>
+<i>de doença de quebrar promessas.</i></b></font>
+
+345
+00:15:08,570 --> 00:15:09,610
+<font face="Open Sans Semibold" size="45"><b>É verdade?</b></font>
+
+346
+00:15:12,700 --> 00:15:17,660
+<font face="Open Sans Semibold" size="45"><b>-É verdade.
+-É mesmo? Não acredito.</b></font>
+
+347
+00:15:17,750 --> 00:15:19,710
+<font face="Open Sans Semibold" size="45"><b>Há algo errado com você?</b></font>
+
+348
+00:15:21,380 --> 00:15:24,500
+<font face="Open Sans Semibold" size="45"><b>Há algo errado comigo.</b></font>
+
+349
+00:15:49,360 --> 00:15:50,320
+<font face="Open Sans Semibold" size="45"><b>O quê?</b></font>
+
+350
+00:15:50,400 --> 00:15:55,030
+<font face="Open Sans Semibold" size="45"><b>Ei, ei, ei! Ele chegou!
+E é um dos grandes!</b></font>
+
+351
+00:16:00,750 --> 00:16:04,840
+<font face="Open Sans Semibold" size="45"><b>-Não adianta. Não posso controlar o <i>kaiju</i>.
+-<i>Kaiju</i>?</b></font>
+
+352
+00:16:09,300 --> 00:16:12,130
+<font face="Open Sans Semibold" size="45"><b>Está brilhando! Está tocando!</b></font>
+
+353
+00:16:12,220 --> 00:16:15,680
+<font face="Open Sans Semibold" size="45"><b>-Viu? Olhe! Há algo se mexendo!
+-Onde?</b></font>
+
+354
+00:16:15,760 --> 00:16:18,430
+<font face="Open Sans Semibold" size="45"><b>Ah! Não dá pra tirar uma boa foto!</b></font>
+
+355
+00:16:19,220 --> 00:16:24,730
+<font face="Open Sans Semibold" size="45"><b>-Perdi meus poderes para controlar <i>kaijus</i>.
+-Ei, cuidado!</b></font>
+
+356
+00:16:24,810 --> 00:16:28,400
+<font face="Open Sans Semibold" size="45"><b>Então vou ter que usar isto!</b></font>
+
+357
+00:16:42,330 --> 00:16:46,710
+<font face="Open Sans Semibold" size="45"><b>Nossa! Aquele está bem perto!
+É muito bonito!</b></font>
+
+358
+00:16:47,500 --> 00:16:50,800
+<font face="Open Sans Semibold" size="45"><b>-Puxa! Ele olhou para mim!
+-Cadê os olhos dele?</b></font>
+
+359
+00:16:52,380 --> 00:16:54,180
+<font face="Open Sans Semibold" size="45"><b>Está vindo para cá!</b></font>
+
+360
+00:16:54,260 --> 00:16:57,100
+<font face="Open Sans Semibold" size="45"><b>-Corra!
+-Espere! Espere, espere, espere!</b></font>
+
+361
+00:16:57,180 --> 00:16:58,510
+<font face="Open Sans Semibold" size="45"><b>Espere!</b></font>
+
+362
+00:16:58,600 --> 00:17:01,020
+<font face="Open Sans Semibold" size="45"><b>Hein? <i>Senpai</i>!</b></font>
+
+363
+00:17:04,440 --> 00:17:07,150
+<font face="Open Sans Semibold" size="45"><b>Ele está morto?</b></font>
+
+364
+00:17:07,610 --> 00:17:10,110
+<font face="Open Sans Semibold" size="45"><b>Desempregado e morto.</b></font>
+
+365
+00:17:11,530 --> 00:17:13,240
+<font face="Open Sans Semibold" size="45"><b>Ah!</b></font>
+
+366
+00:17:15,280 --> 00:17:18,120
+<font face="Open Sans Semibold" size="45"><b>Hum, o que é isso? Hein?</b></font>
+
+367
+00:17:18,200 --> 00:17:22,660
+<font face="Open Sans Semibold" size="45"><b>-Minami? Onde nós estamos?
+-Yomogi?</b></font>
+
+368
+00:17:22,750 --> 00:17:26,920
+<font face="Open Sans Semibold" size="45"><b>Acho que são necessárias quatro pessoas
+para fazê-lo andar.</b></font>
+
+369
+00:17:27,000 --> 00:17:30,090
+<font face="Open Sans Semibold" size="45"><b>Quatro? Hein? Quando ele chegou aqui?</b></font>
+
+370
+00:17:30,840 --> 00:17:32,340
+<font face="Open Sans Semibold" size="45"><b>Fazer o que andar?</b></font>
+
+371
+00:17:32,420 --> 00:17:34,880
+<font face="Open Sans Semibold" size="45"><b>Dy-na-zenon.</b></font>
+
+372
+00:17:34,970 --> 00:17:39,350
+<font face="Open Sans Semibold" size="45"><b>Foi você que nos acolheu?
+Esse é o seu nome?</b></font>
+
+373
+00:17:42,060 --> 00:17:44,060
+<font face="Open Sans Semibold" size="45"><b>Esse é um bom nome!</b></font>
+
+374
+00:17:48,150 --> 00:17:49,860
+<font face="Open Sans Semibold" size="45"><b>Dynazenon?</b></font>
+
+375
+00:17:49,940 --> 00:17:51,610
+<font face="Open Sans Semibold" size="45"><b>-Vamos lá!
+-Hein? Aonde?</b></font>
+
+376
+00:17:54,070 --> 00:17:57,410
+<font face="Open Sans Semibold" size="45"><b>Hum! Merda! Merda! Merda!</b></font>
+
+377
+00:17:57,490 --> 00:18:00,200
+<font face="Open Sans Semibold" size="45"><b><i>Senpai</i>!</b></font>
+
+378
+00:18:12,210 --> 00:18:15,260
+<font face="Open Sans Semibold" size="45"><b>-Aí está ele!
+-É um <i>kaiju </i>mesmo!</b></font>
+
+379
+00:18:29,400 --> 00:18:33,650
+<font face="Open Sans Semibold" size="45"><b>Esse <i>kaiju</i>! São eles?</b></font>
+
+380
+00:18:33,730 --> 00:18:37,150
+<font face="Open Sans Semibold" size="45"><b>Nesse caso, vamos fazer isto
+antes que ele saia do controle!</b></font>
+
+381
+00:18:37,240 --> 00:18:42,160
+<font face="Open Sans Semibold" size="45"><b>Dynazenon! Batalha, vamos lá!</b></font>
+
+382
+00:18:48,250 --> 00:18:50,880
+<font face="Open Sans Semibold" size="45"><b>Hein? Eu deveria fazer alguma coisa?</b></font>
+
+383
+00:18:50,960 --> 00:18:52,250
+<font face="Open Sans Semibold" size="45"><b>Pare de mexer nas coisas!</b></font>
+
+384
+00:18:52,340 --> 00:18:53,670
+<font face="Open Sans Semibold" size="45"><b>Desculpe!</b></font>
+
+385
+00:18:53,750 --> 00:18:56,510
+<font face="Open Sans Semibold" size="45"><b>-Vou arriscar!
+-Hein? Arriscar?</b></font>
+
+386
+00:18:56,590 --> 00:18:59,300
+<font face="Open Sans Semibold" size="45"><b>Sim! Esta é a minha primeira vez!</b></font>
+
+387
+00:19:04,680 --> 00:19:06,100
+<font face="Open Sans Semibold" size="45"><b>Puxa!</b></font>
+
+388
+00:19:06,180 --> 00:19:08,350
+<font face="Open Sans Semibold" size="45"><b><i>-Você está vivo? </i>Senpai<i>, olá?</i>
+-Chise?</b></font>
+
+389
+00:19:08,440 --> 00:19:10,150
+<font face="Open Sans Semibold" size="45"><b><i>-Você está vivo?</i>
+-Não sei o que está acontecendo.</b></font>
+
+390
+00:19:16,530 --> 00:19:20,660
+<font face="Open Sans Semibold" size="45"><b>Como assim? Nossa!</b></font>
+
+391
+00:19:21,530 --> 00:19:25,620
+<font face="Open Sans Semibold" size="45"><b>Merda! Esse é o poder do <i>kaiju</i>?</b></font>
+
+392
+00:19:30,210 --> 00:19:31,960
+<font face="Open Sans Semibold" size="45"><b>Ah, ah! Merda!</b></font>
+
+393
+00:19:37,800 --> 00:19:40,260
+<font face="Open Sans Semibold" size="45"><b>Hein? Nós o irritamos?</b></font>
+
+394
+00:19:40,340 --> 00:19:42,260
+<font face="Open Sans Semibold" size="45"><b>Como você sabe, Yomogi?</b></font>
+
+395
+00:19:42,340 --> 00:19:43,850
+<font face="Open Sans Semibold" size="45"><b>Olhe só pra ele!</b></font>
+
+396
+00:19:43,930 --> 00:19:46,100
+<font face="Open Sans Semibold" size="45"><b>Hein? Vocês se conhecem?</b></font>
+
+397
+00:19:46,180 --> 00:19:48,770
+<font face="Open Sans Semibold" size="45"><b>Espere aí, quem é você mesmo?</b></font>
+
+398
+00:19:51,850 --> 00:19:55,900
+<font face="Open Sans Semibold" size="45"><b>Dynazenon, o que você é, exatamente?</b></font>
+
+399
+00:19:55,980 --> 00:19:59,610
+<font face="Open Sans Semibold" size="45"><b>Antes que ele nos vença,
+mostre do que você é feito!</b></font>
+
+400
+00:20:37,980 --> 00:20:39,650
+<font face="Open Sans Semibold" size="45"><b>Isso o segurou!</b></font>
+
+401
+00:20:39,740 --> 00:20:44,570
+<font face="Open Sans Semibold" size="45"><b>Esse é o poder verdadeiro do Dynazenon?
+Dyna-Rex!</b></font>
+
+402
+00:21:23,570 --> 00:21:24,450
+<font face="Open Sans Semibold" size="45"><b>Tome isso!</b></font>
+
+403
+00:21:25,200 --> 00:21:30,700
+<font face="Open Sans Semibold" size="45"><b>Rugido da chama infernal!</b></font>
+
+404
+00:21:58,020 --> 00:22:00,480
+<font face="Open Sans Semibold" size="45"><b>Oi, s<i>enpai</i>? Você está vivo?</b></font>
+
+405
+00:22:00,570 --> 00:22:03,610
+<font face="Open Sans Semibold" size="45"><b>Não sei, mas acho que acabou.</b></font>
+
+406
+00:22:03,690 --> 00:22:06,490
+<font face="Open Sans Semibold" size="45"><b>O que acabou de acontecer?</b></font>
+
+407
+00:22:07,530 --> 00:22:09,910
+<font face="Open Sans Semibold" size="45"><b>Minami, você está bem?</b></font>
+
+408
+00:22:11,200 --> 00:22:14,710
+<font face="Open Sans Semibold" size="45"><b>Há algo errado comigo.</b></font>
+
