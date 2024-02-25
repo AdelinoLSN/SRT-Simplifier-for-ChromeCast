@@ -1,1 +1,8 @@
 /target
+
+# All files in the files directory except the .gitkeep files and files/input/test.srt
+/files/*
+!/files/input/.gitkeep
+!/files/input/test.srt
+!/files/simplified/.gitkeep
+!/files/output/.gitkeep
