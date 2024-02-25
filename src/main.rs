@@ -1,4 +1,5 @@
-use std::fs;
+mod file;
+use file::*;
 
 #[derive(Clone)]
 struct Subtitle {
@@ -53,18 +54,6 @@ fn simplify_srt(input_file: String, simplified_file: String) {
     }
 
     write_to_file(simplified_file, simplified_content);
-}
-
-fn get_file_contents(path: String) -> String {
-    let content = fs::read_to_string(path)
-        .expect("Something went wrong reading the file");
-
-    return content;
-}
-
-fn write_to_file(path: String, content: String) {
-    fs::write(path, content)
-        .expect("Something went wrong writing the file");
 }
 
 fn merge_subtitles(simplified_file: String, output_file: String) {
