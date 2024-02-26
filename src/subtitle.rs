@@ -1,9 +1,10 @@
 use crate::file::{get_file_contents, write_to_file};
 use crate::time::{Time, convert_line_to_times, get_min_max_times, has_overlap_times, empty_time};
 
-pub const SRT_TAGS: [&str; 2] = [
+pub const SRT_TAGS: [&str; 3] = [
     r"{\an8}",
-    r"{=0}"
+    r"{=0}",
+    r"{=1}",
 ];
 
 #[derive(Clone)]
