@@ -37,9 +37,6 @@ pub fn merge_subtitles(simplified_file: String, output_file: String) {
     let subtitles: Vec<Subtitle> = content_to_subtitles(content);
 
     let subtitles: Vec<Subtitle> = merge_subtitles_with_overlap_times(subtitles);
-    // TODO: This is a temporary solution to merge subtitles with overlap times
-    let subtitles: Vec<Subtitle> = merge_subtitles_with_overlap_times(subtitles);
-    let subtitles: Vec<Subtitle> = merge_subtitles_with_overlap_times(subtitles);
 
     let mut new_content = String::new();
 
@@ -113,30 +110,36 @@ fn merge_subtitles_with_overlap_times(subtitles: Vec<Subtitle>) -> Vec<Subtitle>
 
     let mut iterator = 0;
 
-    while iterator < (subtitles.len() - 1) {
-        let current_subtitle = subtitles[iterator].clone();
-        let next_subtitle = subtitles[iterator + 1].clone();
+    while iterator < (subtitles.len()) {
+        if (iterator + 1) == subtitles.len() {
+            subtitles_merged.push(subtitles[iterator].clone());
+            break;
+        }
 
-        let has_overlap = has_overlap_times(current_subtitle.clone().times, next_subtitle.clone().times);
+        let mut current_subtitle = subtitles[iterator].clone();
 
-        match has_overlap {
-            true => {
-                let merged_subtitle = merge_subtitles_in_one(current_subtitle.clone(), next_subtitle.clone());
-                subtitles_merged.push(merged_subtitle);
+        while (iterator + 1) < subtitles.len() {
+            let next_subtitle = subtitles[iterator + 1].clone();
 
-                iterator += 2;
-            },
-            false => {
-                subtitles_merged.push(current_subtitle);
+            let has_overlap = has_overlap_times(current_subtitle.clone().times, next_subtitle.clone().times);
 
-                iterator += 1;
+            match has_overlap {
+                true => {
+                    let merged_subtitle = merge_subtitles_in_one(current_subtitle.clone(), next_subtitle.clone());
+                    current_subtitle = merged_subtitle;
+
+                    iterator += 1;
+                },
+                false => {
+                    let merged_subtitle = current_subtitle.clone();
+                    subtitles_merged.push(merged_subtitle);
+
+                    break;
+                }
             }
         }
-    }
 
-    if iterator == (subtitles.len() - 1) {
-        let last_subtitle = subtitles[iterator].clone();
-        subtitles_merged.push(last_subtitle);
+        iterator += 1;
     }
 
     return subtitles_merged;
