@@ -40,8 +40,10 @@ pub fn merge_subtitles(simplified_file: String, output_file: String) {
 
     let mut new_content = String::new();
 
+    let mut iterator = 1;
+
     for subtitle in subtitles.iter() {
-        new_content.push_str(&subtitle.number);
+        new_content.push_str(&format!("{}", iterator));
         new_content.push_str("\n");
         new_content.push_str(&format!("{:?} --> {:?}", subtitle.times.0, subtitle.times.1));
         new_content.push_str("\n");
@@ -50,6 +52,8 @@ pub fn merge_subtitles(simplified_file: String, output_file: String) {
             new_content.push_str("\n");
         }
         new_content.push_str("\n");
+
+        iterator += 1;
     }
 
     write_to_file(output_file, new_content);
