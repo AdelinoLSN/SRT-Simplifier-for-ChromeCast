@@ -88,7 +88,7 @@ pub fn has_overlap_times(current_times: (Time, Time), next_times: (Time, Time)) 
     let n_s_t = next_start_time_in_milliseconds;
     let n_e_t = next_end_time_in_milliseconds;
 
-    if (c_s_t <= n_s_t && n_s_t <= c_e_t) || (c_s_t <= n_e_t && n_e_t <= c_e_t) {
+    if (c_s_t < n_s_t && n_s_t < c_e_t) || (c_s_t < n_e_t && n_e_t < c_e_t) {
         return true;
     }
 
