@@ -37,6 +37,9 @@ pub fn merge_subtitles(simplified_file: String, output_file: String) {
     let subtitles: Vec<Subtitle> = content_to_subtitles(content);
 
     let subtitles: Vec<Subtitle> = merge_subtitles_with_overlap_times(subtitles);
+    // TODO: This is a temporary solution to merge subtitles with overlap times
+    let subtitles: Vec<Subtitle> = merge_subtitles_with_overlap_times(subtitles);
+    let subtitles: Vec<Subtitle> = merge_subtitles_with_overlap_times(subtitles);
 
     let mut new_content = String::new();
 
