@@ -126,6 +126,11 @@ fn merge_subtitles_with_overlap_times(subtitles: Vec<Subtitle>) -> Vec<Subtitle>
         }
     }
 
+    if iterator == (subtitles.len() - 1) {
+        let last_subtitle = subtitles[iterator].clone();
+        subtitles_merged.push(last_subtitle);
+    }
+
     return subtitles_merged;
 }
 
