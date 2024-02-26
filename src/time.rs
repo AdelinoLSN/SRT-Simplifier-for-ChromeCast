@@ -81,14 +81,12 @@ pub fn has_overlap_times(current_times: (Time, Time), next_times: (Time, Time)) 
     let current_end_time_in_milliseconds = time_to_milliseconds(current_times.1);
 
     let next_start_time_in_milliseconds = time_to_milliseconds(next_times.0);
-    let next_end_time_in_milliseconds = time_to_milliseconds(next_times.1);
 
     let c_s_t = current_start_time_in_milliseconds;
     let c_e_t = current_end_time_in_milliseconds;
     let n_s_t = next_start_time_in_milliseconds;
-    let n_e_t = next_end_time_in_milliseconds;
 
-    if (c_s_t < n_s_t && n_s_t < c_e_t) || (c_s_t < n_e_t && n_e_t < c_e_t) {
+    if (n_s_t >= c_s_t) && (n_s_t < c_e_t) {
         return true;
     }
 
